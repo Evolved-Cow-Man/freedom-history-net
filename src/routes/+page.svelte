@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<hgroup>
+    <h1 style="max-width: fit-content; margin-left: auto; margin-right: auto;">FreedomHistory.net</h1>
+    <p style="max-width: fit-content; margin-left: auto; margin-right: auto;">A set of useful web-based utilities for AmEx.</p>
+</hgroup>
