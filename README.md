@@ -1,6 +1,12 @@
 # FreedomHistory.net
 A set of useful web-based utilities for AmEx.
 
+To encode audio for the site:
+
+```bash
+ffmpeg -i input.wav -c:a aac -b:a 128k -ac 1 output.m4a
+```
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
