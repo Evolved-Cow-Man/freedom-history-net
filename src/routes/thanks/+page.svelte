@@ -4,6 +4,6 @@
     <li><a href="https://freesound.org/people/mpaol2023/sounds/370178/">Freesound</a></li>
     <li><a href="https://kit.svelte.dev/">svelte kit</a></li>
     <li><a href="https://picocss.com/">Pico CSS</a></li>
-    <li><a href="https://github.com/Evolved-Cow-Man/freedom-history-net">Git Hub</a></li>
+    <li><a href="https://github.com/Evolved-Cow-Man/freedom-history-net/">Git Hub</a></li>
     <li><a href="https://www.cloudflare.com/">Cloudflare</a></li>
 </ol>
