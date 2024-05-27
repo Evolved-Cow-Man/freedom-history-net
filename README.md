@@ -1,6 +1,11 @@
 # FreedomHistory.net
 A set of useful web-based utilities for AmEx.
 
+todo:
+ * favicon logo
+ * names of people for seat selector
+ * peer feedback (that's going to be hard)
+
 To encode audio for the site:
 
 ```bash
