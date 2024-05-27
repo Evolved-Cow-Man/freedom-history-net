@@ -108,6 +108,7 @@
     }, 1000);
 </script>
 
+<div style="min-width: 1024px;">
 <hgroup>
     <h1 style="max-width: fit-content; margin-left: auto; margin-right: auto;"><a data-sveltekit-reload href="/">↩</a> Timer</h1>
     <p style="max-width: fit-content; margin-left: auto; margin-right: auto;">An auto-resetting timer.</p>
@@ -190,3 +191,4 @@
 </div>
 
 <p style="max-width: fit-content; margin-left: auto; margin-right: auto;">Hint: Double-click 'Reset' to zero reset.</p>
+</div>
